@@ -1,2 +1,2 @@
 # EDA-Terrorism
-Exploratory Data Analysis - Terrorism
+I tried to find out the hot zone of terrorism.
